@@ -4,3 +4,4 @@ Writing this down so I don't forget:
 Example: I don't have maths on the next day, so the script will show me something like 
 ### math--
 maybe i'll add something cleverer along the way
+It would be epic if he script fetched up-to-date data about the timetable
